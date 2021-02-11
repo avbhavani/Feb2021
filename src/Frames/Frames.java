@@ -78,7 +78,7 @@ driver.switchTo().frame(2);
 
 	public static void nestedFrame() {
 		int Size =driver.findElements(By.tagName("frame")).size();
+		System.out.println("line added in eclipse frames");
 
 	}
-
 }
