@@ -80,5 +80,11 @@ driver.switchTo().frame(2);
 		int Size =driver.findElements(By.tagName("frame")).size();
 		System.out.println("line added in eclipse frames");
 
+		System.out.println("line added in frmaes");
+
 	}
+
+	
+
+
 }
